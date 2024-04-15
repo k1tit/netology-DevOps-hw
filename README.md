@@ -15,7 +15,7 @@
 
 ### Решение 1
 
-
+![image](https://github.com/k1tit/netology-DevOps-hw/blob/main/1.png)
 
 
 ---
