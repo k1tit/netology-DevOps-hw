@@ -37,7 +37,7 @@
 
 ![image](https://github.com/k1tit/netology-DevOps-hw/blob/main/2.1.png)
 ![image](https://github.com/k1tit/netology-DevOps-hw/blob/main/2.2.png)
-![image]()
+
 
 ---
 
