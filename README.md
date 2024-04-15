@@ -72,7 +72,7 @@ Fetching changes from the remote Git repository
 Fetching upstream changes from https://github.com/jinnonn/sdvps-materials-hw.git
  > git --version # timeout=10
  > git --version # 'git version 2.34.1'
- > git fetch --tags --force --progress -- https://github.com/jinnonn/sdvps-materials-hw.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git fetch --tags --force --progress -- https://github.com/kitit/sdvps-materials-hw.git +refs/heads/*:refs/remotes/origin/* # timeout=10
  > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
 Checking out Revision 801b1f128eaff6503492ad44b28d839948a3b929 (refs/remotes/origin/main)
  > git config core.sparsecheckout # timeout=10
@@ -110,7 +110,7 @@ pipeline {
     stages {
         stage('Git') {
             steps {
-                git url: 'https://github.com/jinnonn/sdvps-materials-hw.git', branch: 'main'
+                git url: 'https://github.com/kitit/sdvps-materials-hw.git', branch: 'main'
             }
         }
         stage('Build') {
