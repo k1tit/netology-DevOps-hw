@@ -18,6 +18,7 @@
 ![image](https://github.com/k1tit/netology-DevOps-hw/blob/main/1.png)
 ![image](https://github.com/k1tit/netology-DevOps-hw/blob/main/2.png)
 ![image](https://github.com/k1tit/netology-DevOps-hw/blob/main/3.png)
+![image](https://github.com/k1tit/netology-DevOps-hw/blob/main/4.png)
 
 ---
 
