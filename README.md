@@ -103,6 +103,7 @@ Commit message: "Update README.md"
 [Pipeline] End of Pipeline
 Finished: SUCCESS
 ```
+![image](https://github.com/k1tit/netology-DevOps-hw/blob/main/3.1.png)
 
 ```
 pipeline {
